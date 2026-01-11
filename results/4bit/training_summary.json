@@ -1,0 +1,10 @@
+{
+  "method": "4-bit QLORA",
+  "total_training_time_hours": 3.305364699098799,
+  "avg_epoch_time_minutes": 66.05215804444418,
+  "peak_memory_gb": 11.090812416,
+  "final_perplexity": 2.415001721643159,
+  "final_loss": 0.8817,
+  "model_size_mb": 4274.742847442627,
+  "timestamp": "2025-12-23 01:59:18"
+}
