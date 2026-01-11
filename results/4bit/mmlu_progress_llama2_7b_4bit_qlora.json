@@ -1,0 +1,1128 @@
+{
+  "model": "llama2_7b_4bit_qlora",
+  "dataset": "MMLU 5-shot test",
+  "interval": 50,
+  "running_accuracy": [
+    {
+      "examples": 50,
+      "accuracy": 0.28
+    },
+    {
+      "examples": 100,
+      "accuracy": 0.3
+    },
+    {
+      "examples": 150,
+      "accuracy": 0.3733
+    },
+    {
+      "examples": 200,
+      "accuracy": 0.39
+    },
+    {
+      "examples": 250,
+      "accuracy": 0.416
+    },
+    {
+      "examples": 300,
+      "accuracy": 0.4167
+    },
+    {
+      "examples": 350,
+      "accuracy": 0.4171
+    },
+    {
+      "examples": 400,
+      "accuracy": 0.4175
+    },
+    {
+      "examples": 450,
+      "accuracy": 0.4311
+    },
+    {
+      "examples": 500,
+      "accuracy": 0.434
+    },
+    {
+      "examples": 550,
+      "accuracy": 0.4327
+    },
+    {
+      "examples": 600,
+      "accuracy": 0.435
+    },
+    {
+      "examples": 650,
+      "accuracy": 0.4415
+    },
+    {
+      "examples": 700,
+      "accuracy": 0.4443
+    },
+    {
+      "examples": 750,
+      "accuracy": 0.4467
+    },
+    {
+      "examples": 800,
+      "accuracy": 0.4475
+    },
+    {
+      "examples": 850,
+      "accuracy": 0.4471
+    },
+    {
+      "examples": 900,
+      "accuracy": 0.4433
+    },
+    {
+      "examples": 950,
+      "accuracy": 0.4337
+    },
+    {
+      "examples": 1000,
+      "accuracy": 0.422
+    },
+    {
+      "examples": 1050,
+      "accuracy": 0.4143
+    },
+    {
+      "examples": 1100,
+      "accuracy": 0.4073
+    },
+    {
+      "examples": 1150,
+      "accuracy": 0.4043
+    },
+    {
+      "examples": 1200,
+      "accuracy": 0.3983
+    },
+    {
+      "examples": 1250,
+      "accuracy": 0.396
+    },
+    {
+      "examples": 1300,
+      "accuracy": 0.3931
+    },
+    {
+      "examples": 1350,
+      "accuracy": 0.3941
+    },
+    {
+      "examples": 1400,
+      "accuracy": 0.3907
+    },
+    {
+      "examples": 1450,
+      "accuracy": 0.3828
+    },
+    {
+      "examples": 1500,
+      "accuracy": 0.3833
+    },
+    {
+      "examples": 1550,
+      "accuracy": 0.389
+    },
+    {
+      "examples": 1600,
+      "accuracy": 0.3931
+    },
+    {
+      "examples": 1650,
+      "accuracy": 0.3903
+    },
+    {
+      "examples": 1700,
+      "accuracy": 0.3918
+    },
+    {
+      "examples": 1750,
+      "accuracy": 0.3914
+    },
+    {
+      "examples": 1800,
+      "accuracy": 0.3922
+    },
+    {
+      "examples": 1850,
+      "accuracy": 0.3897
+    },
+    {
+      "examples": 1900,
+      "accuracy": 0.3884
+    },
+    {
+      "examples": 1950,
+      "accuracy": 0.3903
+    },
+    {
+      "examples": 2000,
+      "accuracy": 0.392
+    },
+    {
+      "examples": 2050,
+      "accuracy": 0.3946
+    },
+    {
+      "examples": 2100,
+      "accuracy": 0.3905
+    },
+    {
+      "examples": 2150,
+      "accuracy": 0.386
+    },
+    {
+      "examples": 2200,
+      "accuracy": 0.3836
+    },
+    {
+      "examples": 2250,
+      "accuracy": 0.3813
+    },
+    {
+      "examples": 2300,
+      "accuracy": 0.3787
+    },
+    {
+      "examples": 2350,
+      "accuracy": 0.3757
+    },
+    {
+      "examples": 2400,
+      "accuracy": 0.3725
+    },
+    {
+      "examples": 2450,
+      "accuracy": 0.371
+    },
+    {
+      "examples": 2500,
+      "accuracy": 0.3712
+    },
+    {
+      "examples": 2550,
+      "accuracy": 0.3714
+    },
+    {
+      "examples": 2600,
+      "accuracy": 0.37
+    },
+    {
+      "examples": 2650,
+      "accuracy": 0.3675
+    },
+    {
+      "examples": 2700,
+      "accuracy": 0.37
+    },
+    {
+      "examples": 2750,
+      "accuracy": 0.3705
+    },
+    {
+      "examples": 2800,
+      "accuracy": 0.3711
+    },
+    {
+      "examples": 2850,
+      "accuracy": 0.3723
+    },
+    {
+      "examples": 2900,
+      "accuracy": 0.3745
+    },
+    {
+      "examples": 2950,
+      "accuracy": 0.3759
+    },
+    {
+      "examples": 3000,
+      "accuracy": 0.3763
+    },
+    {
+      "examples": 3050,
+      "accuracy": 0.3751
+    },
+    {
+      "examples": 3100,
+      "accuracy": 0.3735
+    },
+    {
+      "examples": 3150,
+      "accuracy": 0.373
+    },
+    {
+      "examples": 3200,
+      "accuracy": 0.3747
+    },
+    {
+      "examples": 3250,
+      "accuracy": 0.376
+    },
+    {
+      "examples": 3300,
+      "accuracy": 0.3764
+    },
+    {
+      "examples": 3350,
+      "accuracy": 0.3794
+    },
+    {
+      "examples": 3400,
+      "accuracy": 0.3824
+    },
+    {
+      "examples": 3450,
+      "accuracy": 0.3843
+    },
+    {
+      "examples": 3500,
+      "accuracy": 0.3854
+    },
+    {
+      "examples": 3550,
+      "accuracy": 0.3865
+    },
+    {
+      "examples": 3600,
+      "accuracy": 0.3892
+    },
+    {
+      "examples": 3650,
+      "accuracy": 0.3912
+    },
+    {
+      "examples": 3700,
+      "accuracy": 0.3954
+    },
+    {
+      "examples": 3750,
+      "accuracy": 0.3987
+    },
+    {
+      "examples": 3800,
+      "accuracy": 0.4018
+    },
+    {
+      "examples": 3850,
+      "accuracy": 0.4034
+    },
+    {
+      "examples": 3900,
+      "accuracy": 0.4046
+    },
+    {
+      "examples": 3950,
+      "accuracy": 0.4043
+    },
+    {
+      "examples": 4000,
+      "accuracy": 0.4057
+    },
+    {
+      "examples": 4050,
+      "accuracy": 0.4072
+    },
+    {
+      "examples": 4100,
+      "accuracy": 0.4071
+    },
+    {
+      "examples": 4150,
+      "accuracy": 0.4077
+    },
+    {
+      "examples": 4200,
+      "accuracy": 0.4069
+    },
+    {
+      "examples": 4250,
+      "accuracy": 0.4056
+    },
+    {
+      "examples": 4300,
+      "accuracy": 0.4049
+    },
+    {
+      "examples": 4350,
+      "accuracy": 0.4039
+    },
+    {
+      "examples": 4400,
+      "accuracy": 0.4027
+    },
+    {
+      "examples": 4450,
+      "accuracy": 0.4016
+    },
+    {
+      "examples": 4500,
+      "accuracy": 0.3996
+    },
+    {
+      "examples": 4550,
+      "accuracy": 0.3998
+    },
+    {
+      "examples": 4600,
+      "accuracy": 0.3998
+    },
+    {
+      "examples": 4650,
+      "accuracy": 0.3994
+    },
+    {
+      "examples": 4700,
+      "accuracy": 0.4006
+    },
+    {
+      "examples": 4750,
+      "accuracy": 0.3998
+    },
+    {
+      "examples": 4800,
+      "accuracy": 0.3994
+    },
+    {
+      "examples": 4850,
+      "accuracy": 0.3979
+    },
+    {
+      "examples": 4900,
+      "accuracy": 0.3982
+    },
+    {
+      "examples": 4950,
+      "accuracy": 0.4004
+    },
+    {
+      "examples": 5000,
+      "accuracy": 0.4032
+    },
+    {
+      "examples": 5050,
+      "accuracy": 0.4046
+    },
+    {
+      "examples": 5100,
+      "accuracy": 0.4076
+    },
+    {
+      "examples": 5150,
+      "accuracy": 0.4091
+    },
+    {
+      "examples": 5200,
+      "accuracy": 0.4106
+    },
+    {
+      "examples": 5250,
+      "accuracy": 0.413
+    },
+    {
+      "examples": 5300,
+      "accuracy": 0.4151
+    },
+    {
+      "examples": 5350,
+      "accuracy": 0.4164
+    },
+    {
+      "examples": 5400,
+      "accuracy": 0.4185
+    },
+    {
+      "examples": 5450,
+      "accuracy": 0.4191
+    },
+    {
+      "examples": 5500,
+      "accuracy": 0.4169
+    },
+    {
+      "examples": 5550,
+      "accuracy": 0.4148
+    },
+    {
+      "examples": 5600,
+      "accuracy": 0.4121
+    },
+    {
+      "examples": 5650,
+      "accuracy": 0.4108
+    },
+    {
+      "examples": 5700,
+      "accuracy": 0.4121
+    },
+    {
+      "examples": 5750,
+      "accuracy": 0.413
+    },
+    {
+      "examples": 5800,
+      "accuracy": 0.4145
+    },
+    {
+      "examples": 5850,
+      "accuracy": 0.4152
+    },
+    {
+      "examples": 5900,
+      "accuracy": 0.4168
+    },
+    {
+      "examples": 5950,
+      "accuracy": 0.4185
+    },
+    {
+      "examples": 6000,
+      "accuracy": 0.4192
+    },
+    {
+      "examples": 6050,
+      "accuracy": 0.4197
+    },
+    {
+      "examples": 6100,
+      "accuracy": 0.421
+    },
+    {
+      "examples": 6150,
+      "accuracy": 0.4218
+    },
+    {
+      "examples": 6200,
+      "accuracy": 0.4224
+    },
+    {
+      "examples": 6250,
+      "accuracy": 0.4235
+    },
+    {
+      "examples": 6300,
+      "accuracy": 0.4246
+    },
+    {
+      "examples": 6350,
+      "accuracy": 0.4254
+    },
+    {
+      "examples": 6400,
+      "accuracy": 0.4258
+    },
+    {
+      "examples": 6450,
+      "accuracy": 0.4262
+    },
+    {
+      "examples": 6500,
+      "accuracy": 0.4277
+    },
+    {
+      "examples": 6550,
+      "accuracy": 0.4292
+    },
+    {
+      "examples": 6600,
+      "accuracy": 0.4297
+    },
+    {
+      "examples": 6650,
+      "accuracy": 0.4304
+    },
+    {
+      "examples": 6700,
+      "accuracy": 0.4301
+    },
+    {
+      "examples": 6750,
+      "accuracy": 0.4311
+    },
+    {
+      "examples": 6800,
+      "accuracy": 0.4307
+    },
+    {
+      "examples": 6850,
+      "accuracy": 0.4318
+    },
+    {
+      "examples": 6900,
+      "accuracy": 0.4314
+    },
+    {
+      "examples": 6950,
+      "accuracy": 0.4314
+    },
+    {
+      "examples": 7000,
+      "accuracy": 0.4326
+    },
+    {
+      "examples": 7050,
+      "accuracy": 0.4333
+    },
+    {
+      "examples": 7100,
+      "accuracy": 0.4349
+    },
+    {
+      "examples": 7150,
+      "accuracy": 0.4375
+    },
+    {
+      "examples": 7200,
+      "accuracy": 0.4392
+    },
+    {
+      "examples": 7250,
+      "accuracy": 0.4407
+    },
+    {
+      "examples": 7300,
+      "accuracy": 0.4416
+    },
+    {
+      "examples": 7350,
+      "accuracy": 0.4423
+    },
+    {
+      "examples": 7400,
+      "accuracy": 0.4432
+    },
+    {
+      "examples": 7450,
+      "accuracy": 0.4444
+    },
+    {
+      "examples": 7500,
+      "accuracy": 0.4459
+    },
+    {
+      "examples": 7550,
+      "accuracy": 0.4468
+    },
+    {
+      "examples": 7600,
+      "accuracy": 0.4482
+    },
+    {
+      "examples": 7650,
+      "accuracy": 0.4486
+    },
+    {
+      "examples": 7700,
+      "accuracy": 0.45
+    },
+    {
+      "examples": 7750,
+      "accuracy": 0.4511
+    },
+    {
+      "examples": 7800,
+      "accuracy": 0.4526
+    },
+    {
+      "examples": 7850,
+      "accuracy": 0.454
+    },
+    {
+      "examples": 7900,
+      "accuracy": 0.4554
+    },
+    {
+      "examples": 7950,
+      "accuracy": 0.457
+    },
+    {
+      "examples": 8000,
+      "accuracy": 0.4579
+    },
+    {
+      "examples": 8050,
+      "accuracy": 0.4583
+    },
+    {
+      "examples": 8100,
+      "accuracy": 0.4593
+    },
+    {
+      "examples": 8150,
+      "accuracy": 0.4604
+    },
+    {
+      "examples": 8200,
+      "accuracy": 0.4602
+    },
+    {
+      "examples": 8250,
+      "accuracy": 0.4604
+    },
+    {
+      "examples": 8300,
+      "accuracy": 0.4611
+    },
+    {
+      "examples": 8350,
+      "accuracy": 0.4616
+    },
+    {
+      "examples": 8400,
+      "accuracy": 0.4619
+    },
+    {
+      "examples": 8450,
+      "accuracy": 0.4625
+    },
+    {
+      "examples": 8500,
+      "accuracy": 0.4632
+    },
+    {
+      "examples": 8550,
+      "accuracy": 0.4626
+    },
+    {
+      "examples": 8600,
+      "accuracy": 0.461
+    },
+    {
+      "examples": 8650,
+      "accuracy": 0.4598
+    },
+    {
+      "examples": 8700,
+      "accuracy": 0.4584
+    },
+    {
+      "examples": 8750,
+      "accuracy": 0.4577
+    },
+    {
+      "examples": 8800,
+      "accuracy": 0.4561
+    },
+    {
+      "examples": 8850,
+      "accuracy": 0.455
+    },
+    {
+      "examples": 8900,
+      "accuracy": 0.4539
+    },
+    {
+      "examples": 8950,
+      "accuracy": 0.453
+    },
+    {
+      "examples": 9000,
+      "accuracy": 0.4518
+    },
+    {
+      "examples": 9050,
+      "accuracy": 0.4504
+    },
+    {
+      "examples": 9100,
+      "accuracy": 0.4493
+    },
+    {
+      "examples": 9150,
+      "accuracy": 0.4474
+    },
+    {
+      "examples": 9200,
+      "accuracy": 0.4463
+    },
+    {
+      "examples": 9250,
+      "accuracy": 0.4453
+    },
+    {
+      "examples": 9300,
+      "accuracy": 0.444
+    },
+    {
+      "examples": 9350,
+      "accuracy": 0.4422
+    },
+    {
+      "examples": 9400,
+      "accuracy": 0.442
+    },
+    {
+      "examples": 9450,
+      "accuracy": 0.4421
+    },
+    {
+      "examples": 9500,
+      "accuracy": 0.4422
+    },
+    {
+      "examples": 9550,
+      "accuracy": 0.4425
+    },
+    {
+      "examples": 9600,
+      "accuracy": 0.4426
+    },
+    {
+      "examples": 9650,
+      "accuracy": 0.4427
+    },
+    {
+      "examples": 9700,
+      "accuracy": 0.4424
+    },
+    {
+      "examples": 9750,
+      "accuracy": 0.4431
+    },
+    {
+      "examples": 9800,
+      "accuracy": 0.4436
+    },
+    {
+      "examples": 9850,
+      "accuracy": 0.4443
+    },
+    {
+      "examples": 9900,
+      "accuracy": 0.4447
+    },
+    {
+      "examples": 9950,
+      "accuracy": 0.4457
+    },
+    {
+      "examples": 10000,
+      "accuracy": 0.4459
+    },
+    {
+      "examples": 10050,
+      "accuracy": 0.4459
+    },
+    {
+      "examples": 10100,
+      "accuracy": 0.4466
+    },
+    {
+      "examples": 10150,
+      "accuracy": 0.447
+    },
+    {
+      "examples": 10200,
+      "accuracy": 0.4466
+    },
+    {
+      "examples": 10250,
+      "accuracy": 0.447
+    },
+    {
+      "examples": 10300,
+      "accuracy": 0.4472
+    },
+    {
+      "examples": 10350,
+      "accuracy": 0.4477
+    },
+    {
+      "examples": 10400,
+      "accuracy": 0.4472
+    },
+    {
+      "examples": 10450,
+      "accuracy": 0.4466
+    },
+    {
+      "examples": 10500,
+      "accuracy": 0.4467
+    },
+    {
+      "examples": 10550,
+      "accuracy": 0.4462
+    },
+    {
+      "examples": 10600,
+      "accuracy": 0.4458
+    },
+    {
+      "examples": 10650,
+      "accuracy": 0.4453
+    },
+    {
+      "examples": 10700,
+      "accuracy": 0.4445
+    },
+    {
+      "examples": 10750,
+      "accuracy": 0.444
+    },
+    {
+      "examples": 10800,
+      "accuracy": 0.4439
+    },
+    {
+      "examples": 10850,
+      "accuracy": 0.4436
+    },
+    {
+      "examples": 10900,
+      "accuracy": 0.4434
+    },
+    {
+      "examples": 10950,
+      "accuracy": 0.4428
+    },
+    {
+      "examples": 11000,
+      "accuracy": 0.4421
+    },
+    {
+      "examples": 11050,
+      "accuracy": 0.4415
+    },
+    {
+      "examples": 11100,
+      "accuracy": 0.4411
+    },
+    {
+      "examples": 11150,
+      "accuracy": 0.4408
+    },
+    {
+      "examples": 11200,
+      "accuracy": 0.4403
+    },
+    {
+      "examples": 11250,
+      "accuracy": 0.4397
+    },
+    {
+      "examples": 11300,
+      "accuracy": 0.4385
+    },
+    {
+      "examples": 11350,
+      "accuracy": 0.4382
+    },
+    {
+      "examples": 11400,
+      "accuracy": 0.4375
+    },
+    {
+      "examples": 11450,
+      "accuracy": 0.4371
+    },
+    {
+      "examples": 11500,
+      "accuracy": 0.4366
+    },
+    {
+      "examples": 11550,
+      "accuracy": 0.4362
+    },
+    {
+      "examples": 11600,
+      "accuracy": 0.4359
+    },
+    {
+      "examples": 11650,
+      "accuracy": 0.4355
+    },
+    {
+      "examples": 11700,
+      "accuracy": 0.4351
+    },
+    {
+      "examples": 11750,
+      "accuracy": 0.4345
+    },
+    {
+      "examples": 11800,
+      "accuracy": 0.434
+    },
+    {
+      "examples": 11850,
+      "accuracy": 0.4334
+    },
+    {
+      "examples": 11900,
+      "accuracy": 0.4324
+    },
+    {
+      "examples": 11950,
+      "accuracy": 0.4326
+    },
+    {
+      "examples": 12000,
+      "accuracy": 0.4321
+    },
+    {
+      "examples": 12050,
+      "accuracy": 0.4317
+    },
+    {
+      "examples": 12100,
+      "accuracy": 0.4313
+    },
+    {
+      "examples": 12150,
+      "accuracy": 0.4313
+    },
+    {
+      "examples": 12200,
+      "accuracy": 0.4311
+    },
+    {
+      "examples": 12250,
+      "accuracy": 0.431
+    },
+    {
+      "examples": 12300,
+      "accuracy": 0.4311
+    },
+    {
+      "examples": 12350,
+      "accuracy": 0.4307
+    },
+    {
+      "examples": 12400,
+      "accuracy": 0.4314
+    },
+    {
+      "examples": 12450,
+      "accuracy": 0.432
+    },
+    {
+      "examples": 12500,
+      "accuracy": 0.4322
+    },
+    {
+      "examples": 12550,
+      "accuracy": 0.4319
+    },
+    {
+      "examples": 12600,
+      "accuracy": 0.4317
+    },
+    {
+      "examples": 12650,
+      "accuracy": 0.4323
+    },
+    {
+      "examples": 12700,
+      "accuracy": 0.4324
+    },
+    {
+      "examples": 12750,
+      "accuracy": 0.4324
+    },
+    {
+      "examples": 12800,
+      "accuracy": 0.4323
+    },
+    {
+      "examples": 12850,
+      "accuracy": 0.4324
+    },
+    {
+      "examples": 12900,
+      "accuracy": 0.4326
+    },
+    {
+      "examples": 12950,
+      "accuracy": 0.4331
+    },
+    {
+      "examples": 13000,
+      "accuracy": 0.4332
+    },
+    {
+      "examples": 13050,
+      "accuracy": 0.433
+    },
+    {
+      "examples": 13100,
+      "accuracy": 0.4334
+    },
+    {
+      "examples": 13150,
+      "accuracy": 0.4339
+    },
+    {
+      "examples": 13200,
+      "accuracy": 0.4342
+    },
+    {
+      "examples": 13250,
+      "accuracy": 0.4338
+    },
+    {
+      "examples": 13300,
+      "accuracy": 0.4335
+    },
+    {
+      "examples": 13350,
+      "accuracy": 0.4333
+    },
+    {
+      "examples": 13400,
+      "accuracy": 0.4336
+    },
+    {
+      "examples": 13450,
+      "accuracy": 0.4339
+    },
+    {
+      "examples": 13500,
+      "accuracy": 0.4346
+    },
+    {
+      "examples": 13550,
+      "accuracy": 0.435
+    },
+    {
+      "examples": 13600,
+      "accuracy": 0.4356
+    },
+    {
+      "examples": 13650,
+      "accuracy": 0.4365
+    },
+    {
+      "examples": 13700,
+      "accuracy": 0.4375
+    },
+    {
+      "examples": 13750,
+      "accuracy": 0.4372
+    },
+    {
+      "examples": 13800,
+      "accuracy": 0.4372
+    },
+    {
+      "examples": 13850,
+      "accuracy": 0.4372
+    },
+    {
+      "examples": 13900,
+      "accuracy": 0.4373
+    },
+    {
+      "examples": 13950,
+      "accuracy": 0.4384
+    },
+    {
+      "examples": 14000,
+      "accuracy": 0.4389
+    }
+  ],
+  "final_accuracy": 0.4398233869819114
+}
